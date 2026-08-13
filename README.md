@@ -1,4 +1,4 @@
-'''markdown
+```markdown
 # **Distance Calculator**
 
 ## Description
@@ -15,4 +15,4 @@ The Program calculates the distance between two points that are inputted by the 
 ## Author
 Name: Francis Lewis Y. Atensor
 Section: 8-Mahogany
-'''markdown
+```markdown
